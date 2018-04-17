@@ -1,6 +1,9 @@
+PropsFileUtil.iml
 # Compiled class file
+.idea/
 *.class
-
+/target
+.DS_Store
 # Log file
 *.log
 
